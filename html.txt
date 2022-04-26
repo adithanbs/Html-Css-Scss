@@ -1,0 +1,51 @@
+1,what is HTML ?
+The HyperText Markup Language 
+
+2,What is the role of DOCTYPE in HTML5?
+what type and version of markup language are being used.
+
+2,what is meta tag ?
+Metadata is used by browsers (how to display content or reload page), 
+search engines (keywords), and other web services.
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+3,Types of elememt in html?
+ Thay are two types:
+  1,block level elememt
+  2,inline elememt
+  
+--> Block level elememt take full width of the screen
+
+---> inline elememt how space need that contant that space only take
+
+
+4,What types of graphics are supported by HTML5?
+
+ ->canvash
+ The <canvas> tag is used to draw graphics it styled in js 
+ 
+ ->svg
+ he <svg> tag is used to draw graphics it styled in css 
+
+ 5,What are the key differences between HTML and HTML5?
+   ->HTML5 supports video, graphics, and audio, whereas HTML only supports them through third-party extensions
+   ->HTML5 is mobile-friendly, whereas HTML is not
+   ->HTML5 is compatible with all major web browsers, whereas HTML is not
+
+6,how to link css and js?
+->  <script src="myscripts.js"></script>
+ -> <link rel="stylesheet" href="styles.css">
+
+7,What are the key HTML5 page structure elements?
+<header>, containing the header or top of the page
+<footer>, containing the footer or bottom of the page
+<section>, containing one section that is thematically similar to other sections
+<article>, containing standalone content
+<nav>, containing the navigation functionality of the page
+<aside>, containing secondary content

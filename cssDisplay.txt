@@ -1,0 +1,9 @@
+1,what is Block,flex,inline ?
+2,what is posion propertices in css ?
+3,what is flot ?
+4,mediya query ?
+5,Animaction ?
+6,sudo elements?
+7,sudo class?
+8,grid
+9,
