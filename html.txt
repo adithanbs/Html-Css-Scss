@@ -1,5 +1,5 @@
 1,what is HTML ?
-The HyperText Markup Language 
+The HyperText Markup Language , its use to create the wep pages
 
 2,What is the role of DOCTYPE in HTML5?
 what type and version of markup language are being used.
@@ -49,3 +49,8 @@ search engines (keywords), and other web services.
 <article>, containing standalone content
 <nav>, containing the navigation functionality of the page
 <aside>, containing secondary content
+
+ How can HTML5 be used for data storage purposes?
+
+ IndexedDB API,   a standard maintained by the World Wide Web Consortium
+ Web SQL Database,   now considered deprecated 

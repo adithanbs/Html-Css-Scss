@@ -1,9 +1,52 @@
+what is css ?
+Cascading Style Sheets
+
 1,what is Block,flex,inline ?
+
+
 2,what is posion propertices in css ?
-3,what is flot ?
+staic,relative,absalute,fixed,sticky
+3,what is float ?
+set possion in left and right
 4,mediya query ?
+it used to responsive our wep site
 5,Animaction ?
+animactin : name
+transulat:tranfrom
+rotate
+scalable
+@keyframe:{
+    from:{
+
+    }
+    to:{
+
+    }
+}
 6,sudo elements?
+::after,
+::before,
+::fistletter,
+::firstline
 7,sudo class?
-8,grid
-9,
+:link,
+:hover,
+:visted,
+:active,
+:focus
+8,grid?
+ -> 2D positioinn row and coloum
+  display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-gap: 20px;
+    gap: 20px;
+9,flex?
+  -> 1D positioinn row or coloum
+10,boxmodel?  
+margin,boder,badding,contant
+11,what is selector?
+1,element selector,
+2,class selector,
+3,id selector,
+4,pseudo-class,
+5,pseudo-elememt
